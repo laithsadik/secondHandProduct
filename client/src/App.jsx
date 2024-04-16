@@ -9,7 +9,7 @@ import SignIn from "./pages/SignInPage/SignIn";
 import NotFound from "./pages/NotFound";
 import PrivateRoute from "./components/PrivateRoute";
 import CreateListing from "./pages/CreateListing";
-import UpdateListing from "./pages/updateListing";
+import UpdateListing from "./pages/UpdateListing";
 import Listing from "./pages/Listing";
 import Pet from "./pages/Pet";
 import { useSelector } from "react-redux";
