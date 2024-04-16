@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import SwiperCore from "swiper";
 import "swiper/css/bundle";
-import ListingItem from "../components/listingItem";
+import ListingItem from "../components/ListingItem";
 import { useNavigate } from "react-router-dom";
 
 export default function Home() {
