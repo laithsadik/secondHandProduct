@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import ListingItem from "../components/listingItem";
+import ListingItem from "../components/ListingItem";
 import {
   homeGardenItems,
   computerItems,
